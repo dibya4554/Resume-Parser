@@ -1,0 +1,36 @@
+Tony,
+address:newyork, manhattan
+email: admin@sample.com
+phone:75849379
+
+I am an expert in Python, Django, REST APIs, and cloud technologies, with over 5 years of experience. I have a comprehensive understanding of designing and implementing scalable backend systems and cloud infrastructure. I have built several full-stack applications and have a deep understanding of databases like PostgreSQL, MySQL, and MongoDB. I am also skilled in using AWS for deploying applications and managing cloud resources. My experience with Git, unit testing, and Agile development ensures I can contribute to high-performance teams.
+
+Skills:
+- Django (5+ years)
+- AWS (EC2, S3, Lambda, RDS)
+- NoSQL (MongoDB)
+- REST APIs
+- Git
+- Docker
+- Unit Testing (unittest, PyTest)
+- Continuous Integration/Continuous Deployment (CI/CD)
+- Agile Methodology
+- Communication
+
+Experience:
+1. Senior Backend Developer | Cloud Solutions Inc. | 2019-Present
+   - Lead development of microservices and backend systems using Python and Django.
+   - Integrated AWS services like S3, Lambda, and RDS for a scalable cloud infrastructure.
+   - Created and optimized REST APIs for efficient data exchange.
+   - Managed PostgreSQL and MySQL databases, including designing schemas and optimizing queries.
+   - Worked with DevOps teams to implement CI/CD pipelines and ensure automated testing and deployment.
+
+2. Python Developer | Web Innovations | 2016-2019
+   - Developed backend services and APIs using Python and Django.
+   - Worked with cloud platforms (AWS) for deploying applications and managing databases.
+   - Built and optimized SQL queries for high-traffic web applications.
+   - Implemented unit tests and performed code reviews to maintain code quality.
+
+Education:
+- M.Sc. in Computer Science | ABC University | 2016
+- B.Tech in Information Technology | XYZ University | 2014

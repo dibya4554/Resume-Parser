@@ -1,0 +1,30 @@
+I am an experienced Python developer with a strong background in Django, REST APIs, and working with cloud technologies like AWS. I have hands-on experience with Git version control, and I am proficient in PostgreSQL and SQL databases. Additionally, I have a solid understanding of web application security, unit testing, and writing clean, maintainable code. I enjoy collaborating with teams to deliver high-quality projects, and I have strong communication skills.
+
+Skills:
+- Python (5+ years)
+- Django (3+ years)
+- AWS (2+ years)
+- SQL (PostgreSQL, MySQL)
+- REST APIs
+- Git
+- Unit Testing (PyTest, unittest)
+- Agile Methodology
+- Problem-Solving
+- Communication
+
+Experience:
+1. Software Developer | Tech Solutions | 2020-2023
+   - Developed web applications using Django and Python.
+   - Worked with REST APIs for data exchange and integration with third-party services.
+   - Integrated AWS services like S3 and Lambda for cloud functionality.
+   - Used Git for version control and collaborated with other developers in a team environment.
+   - Wrote unit tests to ensure code quality and maintainability.
+
+2. Backend Developer | WebCorp | 2018-2020
+   - Built backend systems using Python and Django, focusing on scalability and performance.
+   - Designed and optimized SQL queries for relational databases (PostgreSQL, MySQL).
+   - Created and maintained REST APIs for internal and external use.
+   - Collaborated with frontend teams to deliver full-stack applications.
+
+Education:
+- B.Tech in Computer Science | XYZ University | 2018

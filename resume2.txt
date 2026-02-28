@@ -1,0 +1,30 @@
+A versatile software engineer with expertise in Java and Python development. While my primary experience lies in Java and Spring Boot, I also have a solid foundation in Python and Django. I have worked on multiple projects involving REST APIs and microservices architecture. I am passionate about learning new technologies, and my experience with databases and cloud platforms like AWS enables me to build robust and scalable systems. I am seeking opportunities to further develop my skills in Python and Django.
+
+Skills:
+- Java (5+ years)
+- Spring Boot (3+ years)
+- Python (2+ years)
+- REST APIs
+- Microservices
+- AWS (EC2, Lambda)
+- Git
+- SQL (MySQL, Oracle)
+- Problem-Solving
+- Communication
+
+Experience:
+1. Software Engineer | SoftWorks | 2020-2023
+   - Developed enterprise-grade applications using Java and Spring Boot.
+   - Integrated microservices architecture with various RESTful services.
+   - Used AWS for deployment and hosting of web applications.
+   - Developed API endpoints and integrated with third-party services.
+   - Worked with MySQL and Oracle databases to manage large datasets.
+
+2. Junior Developer | WebDev Co. | 2018-2020
+   - Worked on backend development using Java and Spring Boot.
+   - Assisted in the migration of legacy systems to modern microservices architecture.
+   - Contributed to the design and development of REST APIs for internal tools.
+   - Participated in daily Agile meetings to discuss progress and sprint goals.
+
+Education:
+- B.Sc. in Computer Science | ABC University | 2018
